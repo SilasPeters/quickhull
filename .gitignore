@@ -1,0 +1,5 @@
+.stack-work/
+.devcontainer/
+quickhull.cabal
+*~
+/stack.yaml.lock
